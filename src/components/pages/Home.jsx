@@ -20,6 +20,8 @@ export const Home = ()=>{
                 </div>
                 <div className="img-product">
 
+
+
                     
                 </div>
 
